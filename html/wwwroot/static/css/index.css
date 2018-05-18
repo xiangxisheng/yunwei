@@ -1,0 +1,18 @@
+table {
+  border: 0;
+  margin: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table td {
+  /*padding: 0;*/
+}
+
+.table1 {
+  border: 1px solid rgb(170, 170, 170);
+}
+
+.table1 td {
+  border: 1px solid rgb(170, 170, 170);
+}
